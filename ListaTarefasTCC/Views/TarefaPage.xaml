@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaTarefasTCC.Views.TarefaPage"
+             Title="{Binding Nome}">
+    <StackLayout
+            Margin="20"
+            Spacing="10"
+            VerticalOptions="StartAndExpand">
+
+        <Label Text="Nome" />
+        <Entry Text="{Binding Nome}" />
+
+        <Label Text="Horário" />
+        <Entry Text="{Binding Nota}" />
+
+        <StackLayout Orientation="Horizontal">
+            <Label
+                    Margin="0,10"
+                    HorizontalOptions="StartAndExpand"
+                    Text="Concluído" />
+            <Switch HorizontalOptions="EndAndExpand" IsToggled="{Binding Concluido}" />
+        </StackLayout>
+
+        <Button Clicked="Salvar" Text="Salvar" />
+
+        <Button x:Name="btnDeletar" Clicked="Deletar" Text="Deletar" />
+
+        <Button Clicked="Cancelar" Text="Cancelar" />
+
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,711 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.822.36306.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\check.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-100.png
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\ListaTarefas.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ref\ListaTarefas.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\thiag\OneDrive\Área de Trabalho\aula\TCC\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.exe
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.deps.json
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.runtimeconfig.json
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.pdb
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLiteNetExtensions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLiteNetExtensionsAsync.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.sqlite3.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.822.36306.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Projetos\ListaTarefas\ListaTarefas\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.csproj.AssemblyReference.cache
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\check.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-100.png
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.AssemblyInfoInputs.cache
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.AssemblyInfo.cs
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.csproj.CoreCompileInputs.cache
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.csproj.CopyComplete
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.dll
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\ListaTarefas.dll
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.pdb
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ListaTarefas.genruntimeconfig.cache
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ref\ListaTarefas.dll
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Projetos\ListaTarefas\ListaTarefas\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\checkmark.scale-100.png

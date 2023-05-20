@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaTarefasTCC.Views.Listagem"
+             Title="Lista de Tarefas">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem IconImageSource="plus.png" Clicked="AdicionarNovaTarefa" />
+    </ContentPage.ToolbarItems>
+
+    <ListView
+        x:Name="listView"
+        Margin="20"
+        ItemSelected="EditarTarefa">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout
+                        Margin="20,0,0,0"
+                        HorizontalOptions="FillAndExpand"
+                        Orientation="Horizontal">
+                        <Label HorizontalOptions="StartAndExpand" Text="{Binding Nome}" />
+                        <Label HorizontalOptions="StartAndExpand" Text="{Binding Nota}" />
+                        <Image
+                            HorizontalOptions="End"
+                            IsVisible="{Binding Concluido}"
+                            Source="checkmark.png" />
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
