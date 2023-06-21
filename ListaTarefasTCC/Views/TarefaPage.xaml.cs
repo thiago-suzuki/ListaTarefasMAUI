@@ -29,6 +29,10 @@ public partial class TarefaPage : ContentPage
 
         if (string.IsNullOrEmpty(tarefa.Nome) || string.IsNullOrEmpty(tarefa.Nota))
             await DisplayAlert("Erro", "Preencha os dados corretamente!", "OK");
+
+        else if (!DateTime.TryParse(tarefa.Nota, out var final))
+            await DisplayAlert("Erro", "Horário Inválido!", "OK");
+
         else
         {
             await Database.SalvarTarefa(tarefa);

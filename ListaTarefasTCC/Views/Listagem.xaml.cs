@@ -16,7 +16,8 @@ public partial class Listagem : ContentPage
     { 
         base.OnAppearing();
         database = await Database.Instance();
-        listView.ItemsSource = await database.GetTarefas();
+        List<Tarefa> tarefas = await database.GetTarefas();
+        listView.ItemsSource = tarefas.OrderBy(c => DateTime.Parse(c.Nota));
     }
 
     public async void AdicionarNovaTarefa(object sender, EventArgs e)
